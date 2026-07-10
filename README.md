@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `elevator-dispatch_safe.os` — the correct design.
-- `elevator-dispatch_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `elevator-dispatch_safe.wave` — the correct design.
+- `elevator-dispatch_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
